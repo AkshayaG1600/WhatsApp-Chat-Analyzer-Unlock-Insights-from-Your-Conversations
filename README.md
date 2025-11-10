@@ -1,4 +1,4 @@
-💬 WhatsApp Chat Analyzer – Unlock Insights from Your Conversations
+**💬 WhatsApp Chat Analyzer – Unlock Insights from Your Conversations**
 
 WhatsApp Chat Analyzer is an interactive data visualization tool built with Streamlit that transforms your exported WhatsApp chat into meaningful insights.
 
