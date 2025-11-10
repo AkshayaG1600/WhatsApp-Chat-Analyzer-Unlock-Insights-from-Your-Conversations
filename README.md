@@ -30,5 +30,7 @@ helper.py computes message counts, word frequencies, and emoji stats
 Streamlit visualizes the results with charts, heatmaps, and word clouds
 
 🧑‍💻 Author
+
 Akshaya Sanjay Govind
+
 Email: akshaya1600@gmail.com
