@@ -13,6 +13,7 @@ WhatsApp Chat Analyzer is an interactive data visualization tool built with Stre
 🕒 Weekly Activity Heatmap – Discover when your group or friend is most active (by hour and day).
 
 🧩 Tech Stack
+
 Python
 Streamlit – Interactive web app framework
 Pandas – Data manipulation and analysis
