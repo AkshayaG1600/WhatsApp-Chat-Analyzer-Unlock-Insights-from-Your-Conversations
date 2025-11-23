@@ -2,7 +2,7 @@
 
 WhatsApp Chat Analyzer is an interactive data visualization tool built with Streamlit that transforms your exported WhatsApp chat into meaningful insights.
 
-🔍 Features
+## Features
 
 ✅ Comprehensive Chat Stats – Total messages, words, links, and media shared.
 📅 Timeline Analysis – Monthly and daily trends of chat activity.
@@ -12,7 +12,7 @@ WhatsApp Chat Analyzer is an interactive data visualization tool built with Stre
 😂 Emoji Analysis – Identify the most used emojis and view their frequency.
 🕒 Weekly Activity Heatmap – Discover when your group or friend is most active (by hour and day).
 
-🧩 Tech Stack
+## Tech Stack
 
 Python
 Streamlit – Interactive web app framework
@@ -22,15 +22,10 @@ WordCloud – Word frequency visualization
 URLEXtract – URL extraction from messages
 Emoji – Emoji recognition and analysis
 
-🧠 How It Works
+## How It Works
 
 Upload a WhatsApp chat .txt file
 The app parses and cleans the text using preprocessor.py
 helper.py computes message counts, word frequencies, and emoji stats
 Streamlit visualizes the results with charts, heatmaps, and word clouds
 
-🧑‍💻 Author
-
-Akshaya Sanjay Govind
-
-Email: akshaya1600@gmail.com
